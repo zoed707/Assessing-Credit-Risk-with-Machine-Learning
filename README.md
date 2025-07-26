@@ -16,4 +16,3 @@ Decision Tree Accuracy: 72.35 % baseline vs 72.94% (selected feature)
 Naive Bayes Accuracy: 73.82% (selected features) vs 75% baseline
 Critical Recall: 93.72% (identifies 94% of creditworthy applicants)
 Most Relevant Predictors: Account Balance, Credit Duration, Payment History
-<img width="1293" height="275" alt="image" src="https://github.com/user-attachments/assets/8a3518c0-3017-413e-be1f-f5997d27debd" />
